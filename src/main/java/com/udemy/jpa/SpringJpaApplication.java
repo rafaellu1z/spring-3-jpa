@@ -1,4 +1,4 @@
-package com.udemy.spring_jpa;
+package com.udemy.jpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
